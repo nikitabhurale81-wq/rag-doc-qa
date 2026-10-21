@@ -1,0 +1,4 @@
+This is a sample document for the RAG pipeline.
+Retrieval-Augmented Generation (RAG) combines a retriever, which finds
+relevant text chunks from a knowledge base, with a language model that
+uses those chunks as context to produce grounded, factual answers.
